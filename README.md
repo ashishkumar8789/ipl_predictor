@@ -19,4 +19,4 @@ Run the Streamlit app:
 streamlit run host.py
 
 
-follow this https://ipl-match-prediction.streamlit.app/
+follow this [https://ipl-match-prediction.streamlit.app/](https://ashishipl.streamlit.app/)
